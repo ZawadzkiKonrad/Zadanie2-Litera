@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Zadanie2-Litera\Zadanie2-Litera\bin\Debug\net6.0\Zadanie2-Litera.exe
+C:\Users\Admin\source\repos\Zadanie2-Litera\Zadanie2-Litera\bin\Debug\net6.0\Zadanie2-Litera.deps.json
+C:\Users\Admin\source\repos\Zadanie2-Litera\Zadanie2-Litera\bin\Debug\net6.0\Zadanie2-Litera.runtimeconfig.json
+C:\Users\Admin\source\repos\Zadanie2-Litera\Zadanie2-Litera\bin\Debug\net6.0\Zadanie2-Litera.dll
+C:\Users\Admin\source\repos\Zadanie2-Litera\Zadanie2-Litera\bin\Debug\net6.0\ref\Zadanie2-Litera.dll
+C:\Users\Admin\source\repos\Zadanie2-Litera\Zadanie2-Litera\bin\Debug\net6.0\Zadanie2-Litera.pdb
+C:\Users\Admin\source\repos\Zadanie2-Litera\Zadanie2-Litera\obj\Debug\net6.0\Zadanie2-Litera.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Zadanie2-Litera\Zadanie2-Litera\obj\Debug\net6.0\Zadanie2-Litera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Zadanie2-Litera\Zadanie2-Litera\obj\Debug\net6.0\Zadanie2-Litera.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Zadanie2-Litera\Zadanie2-Litera\obj\Debug\net6.0\Zadanie2-Litera.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Zadanie2-Litera\Zadanie2-Litera\obj\Debug\net6.0\Zadanie2-Litera.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Zadanie2-Litera\Zadanie2-Litera\obj\Debug\net6.0\Zadanie2-Litera.dll
+C:\Users\Admin\source\repos\Zadanie2-Litera\Zadanie2-Litera\obj\Debug\net6.0\ref\Zadanie2-Litera.dll
+C:\Users\Admin\source\repos\Zadanie2-Litera\Zadanie2-Litera\obj\Debug\net6.0\Zadanie2-Litera.pdb
+C:\Users\Admin\source\repos\Zadanie2-Litera\Zadanie2-Litera\obj\Debug\net6.0\Zadanie2-Litera.genruntimeconfig.cache
